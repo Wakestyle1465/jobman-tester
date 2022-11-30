@@ -1,0 +1,76 @@
+
+/* Popup style */
+.popup-box {
+  position: fixed;
+  background: rgba(255, 255, 255, 0);
+  display: block;
+  width: 70%;
+  height: auto;
+  top: 30%;
+  left: 15%;
+}
+ 
+.box {
+
+  position: relative;
+  width: 70%;
+  margin: 0 auto;
+  
+  margin-top: calc(100vh - 85vh - 20px);
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  border: 1px solid #999;
+  overflow: auto;
+}
+ 
+.close-icon {
+  content: 'x';
+  cursor: pointer;
+  position: relative;
+  left: 98%;
+  top: -10px;
+  background: #ededed;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid #999;
+  font-size: 20px;
+}
+
+#jobitem{
+  margin-bottom: 15px;
+}
+
+#appbtn{
+  margin-right: 2.5px;
+}
+
+#link{
+  margin-left: 2.5px;
+}
+
+#view{
+  margin-top: 0;
+}
+
+#p{
+  margin-bottom: 0;
+}
+
+#subapp{
+  margin-bottom: 5px;
+  position: relative;
+  left:25px
+}
+
+#applicants{
+  margin-top: 20px;
+}
+
+label{
+  margin-bottom: 5px;
+  margin-top: 5px;
+}

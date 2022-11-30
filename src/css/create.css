@@ -1,0 +1,25 @@
+#app-card{
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+    text-align: left;
+}
+
+#subbtn{
+    position: relative;
+    right:19%;
+    bottom:5%;
+}
+
+.post {
+    text-align: left;
+    width:100px;
+    display: inline-block;
+    margin-bottom: 5px;
+    
+}
+
+#create-form{
+    position: relative;
+    right:50px
+}

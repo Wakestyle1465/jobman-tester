@@ -1,0 +1,185 @@
+{
+  "jobdata": [
+    {
+      "id": "1",
+      "date_posted": "10-2-2022",
+      "field": "Business",
+      "location": "Tampa, FL",
+      "job_name": "Business Application Specialist - Entry Level",
+      "company_name": "Tampa Bay Insurance Advisors",
+      "salary": 60000,
+      "description": "This position is perfect for someone who has had previous account management, sales, account executive, or insurance agent experience. Sales representatives or sales executives would also be a good fit for this role as well.You will be responsible for providing solutions to our customer bases through company-provided leads. These interactions will take place over the phone in an office setting. A good agent must be adaptable, driven, and coachable to meet the needs of the client and provide a solution to supply them with the health coverage they need"
+    },
+    {
+      "id": "2",
+      "date_posted": "10-20-2022",
+      "field": "Software",
+      "location": "Sarasota, FL",
+      "job_name": "Jr. Web Developer",
+      "company_name": " Illuminate PR & Marketing Agency",
+      "salary": 35000,
+      "description": "We are looking for a Jr. Web Developer for our Sarasota, FL location with the ability to design and build desktop and mobile web application front end interfaces. The ideal candidate will have strong development experience utilizing HTML, CSS, Bootstrap, Ajax, jQuery and should be familiar with the Visual Studio, Visual Studio code and Adobe Creative Suite development tools."
+    },
+    {
+      "id": "3",
+      "date_posted": "10-18-2022",
+      "field": "Software",
+      "location": "Raleigh, NC",
+      "job_name": "Software Developer - Vapor/Swift/React",
+      "company_name": "Transeo",
+      "salary": 120000,
+      "description": "You should already have a comprehensive understanding of how to build reliable, efficient backends and frontends. As a remote-first team, it's also critical that you demonstrate strong people and interpersonal skills, as well as writing capabilities. Importantly, you don't need to be an expert in our specific backend technology stack (Vapor/Swift) to be successful - you just have to be willing to learn quickly and dive right in. A typical day may include: writing code, crafting backend architecture, shaping our overall products, writing a feature pitch, or diagnosing a framework or Swift bug. This is a full-time position. Please note that you must be willing to work at least 5 hours of overlap with 9am-5pm United States Central Time."
+    },
+    {
+      "id": "4",
+      "date_posted": "10-21-2022",
+      "field": "Business",
+      "location": "Hoboken, NJ",
+      "job_name": "Forex Market Analyst",
+      "company_name": "Think Huge LTD",
+      "salary": 40000,
+      "description": "This is a market analyst role like you have never seen before.We are looking for a trading mentor to educate our traders on how the markets work. Using your vast knowledge of the financial markets (especially forex) you will be able to share tips, strategies, and your market commentary."
+    },
+    {
+      "id": "5",
+      "date_posted": "09-25-2022",
+      "field": "Business",
+      "location": "Austin, TX",
+      "job_name": "Market Analyst II",
+      "company_name": "CALSTART",
+      "salary": 65000,
+      "description": "CALSTART has an opening for a highly motivated candidate to join our team as a Market Analyst II to join our Truck and Off-Road team. This position will contribute to the creation, support, and improvement of CALSTART industry knowledge products and datasets. The Market Analyst II will support the Deputy Director, Validation & Assessment with all aspects of Truck and Off-Road Equipment data analytics."
+    },
+    {
+      "id": "6",
+      "applied": 0,
+      "date_posted": "10-17-2022",
+      "field": "Administrative",
+      "location": "Valdosta, GA",
+      "job_name": "Administrative Assistant",
+      "company_name": "Vitamin T",
+      "salary": 32000,
+      "description": "Performs a variety of complex administrative functions for all levels of management including executives and external business partners. Manages schedule(s) and provides complex calendar management, coordinates travel arrangements and processes business expenses. Proactively manages logistics for business group meetings/events and assists with department financial operations, personnel operations, and facility operations. Manages procurement of goods and services including computer equipment, office supplies, reference materials, and vendor relationships. Completes special projects as assigned. Proactively manages logistics for business group meetings/events. Uses diplomacy and professionalism to draft communications for high-level manager.  Anticipates and removes administrative roadblocks and makes timely decisions across the business group."
+    },
+    {
+      "id": "7",
+      "applied": 0,
+      "date_posted": "10-07-2022",
+      "field": "Software",
+      "location": "Remote",
+      "job_name": "Sr. Software Developer",
+      "company_name": "MHS",
+      "salary": 120000,
+      "description": "This role will be responsible for the analysis, technical vetting, designing, developing and management of both existing and new product lines as well as working with other development staffs to ensure that our implementation is efficient, monitored, documented and sustainable. Analyzing and reporting on areas of potential improvement for the Fortna Product Suite, including vetting of new technology that can bring strategic advantage to Fortna.Developing Proof of Concept implementations to establish the feasibility and demonstrating the application of new technology to new products or extensions to existing products. Performing HR related activities for recruiting and training new developers. Taking the lead in designing, implementing and testing new software products and technologies. Participating in design, developing and delivering the solutions for end-users and Clients. Assisting Software QA and Infrastructure Engineers in Qualifying, Deploying and Packaging Company’s software product and libraries.Assisting Software QA in design and development of test plans and frameworks. Maintaining high quality software source code and design documentation. Providing remote support and troubleshooting for client's systems."
+    },
+    {
+      "id": "8",
+      "date_posted": "10-01-2022",
+      "field": "IT",
+      "location": "Columbus, OH",
+      "job_name": "Fullfillment Tech Configuration",
+      "company_name": "Vaco",
+      "salary": 95000,
+      "description": "Own configuration and technical changes required to onboard clients to ShipStation platform, including working with clients as well as OceanX technical and client-facing teams during onboarding activities. Work with fulfillment system team members to design solutions related to integration between warehouse management system (SCALE) and other internal and external systems. Collaborate with other technical teams to provide solutions for business team requirements related to fulfillment software. Utilize product software to help develop integration components and database functions as required to support and streamline fulfillment processes. Provide verbal and written warehouse system SME knowledge to peers at OceanX and support technical lead communication with clients. Own the documentation of technical processes and product configurations"
+    },
+    {
+      "id": "9",
+      "date_posted": "10-19-2022",
+      "field": "Medical",
+      "location": "Remote",
+      "job_name": "Physician Healthline MD",
+      "company_name": "HealthForce Partners Inc.",
+      "salary": 67000,
+      "description": "HealthForce Partners is looking for an experienced physician to provide telephonic medical consulting support for yacht and vessel crew members, warehouse workers, and a variety of remote worksites around the world. This unique opportunity provides qualified physicians with the flexibility to work from any location cellular services are available. Typical shifts are twelve hours in length and are currently available most times during the week and weekend. Each call is received by our call center and qualified by our administrative coordinators first before being connected to the physician for consultation."
+    },
+    {
+      "id": "10",
+      "date_posted": "10-24-2022",
+      "field": "IT",
+      "location": "Saint Paul, MN",
+      "job_name": "Inventory Control Operator I",
+      "company_name": "Computype Inc.",
+      "salary": 45000,
+      "description": "Ensure timely and accurate inventory picks are executed for finished goods and raw materials; this includes timely transactions into the business system. Ensure all finished goods picks are rechecked. Ensure that all inventory entering the Main (C) warehouse (receipts) for storage are put away in a timely manner and are entered accurately into the business system from jobs and purchase orders. Perform cycle count, reconcile, diagnose root cause and recommend actions in a timely manner. Accurately scrap expired inventory in a timely manner by the end of each month. Ensure that print plates, flat bed and rotary tools are received in a timely manner. Keep work area safe, neat and clean. Operate warehouse machinery in a safe, efficient manner while maintaining the forklift, pallet jacks, dock plate, etc., ensuring that each is in good working order. Provide support to other departments and job functions, as requested. Maintain accurate inventory counts; complete periodic physical counts when required. Assist with training of new Inventory Control employees. Complete internal audits as well as external ISO audits. Use existing tools to accurately manage the shelf life of materials by accepting or rejecting materials. Update department metrics per rotational schedule. Perform other duties as apparent or assigned."
+    }
+  ],
+  "applications": [
+    {
+      "jobID": "1",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    },
+    {
+      "jobID": "2",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    },
+    {
+      "jobID": "3",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    },
+    {
+      "jobID": "4",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    },
+    {
+      "jobID": "5",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    },
+    {
+      "jobID": "6",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    },
+    {
+      "jobID": "7",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    },
+    {
+      "jobID": "8",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    },
+    {
+      "jobID": "9",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    },
+    {
+      "jobID": "10",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    },
+    {
+      "jobID": "47",
+      "first_name": "Frank",
+      "last_name": "Santoyo",
+      "experience": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "id": 1
+    }
+  ]
+}
